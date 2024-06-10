@@ -1,1 +1,1 @@
-# wdio-begginer
+# wdio-beginner
